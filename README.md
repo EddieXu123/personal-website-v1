@@ -1,3 +1,3 @@
 # EddieXu123.github.io
 
-Personal webpage: http://eddiexu123.com/
+Personal webpage: https://eddiexu123.com/
